@@ -1,5 +1,6 @@
 
-Site fictício responsivo criado para um fotógrafo!
+Site fictício responsivo criado com html e css para um fotógrafo!
+
 https://cleitonlahm.github.io/site-fotografo/
 
 
