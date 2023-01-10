@@ -27,8 +27,10 @@ h1, h2, h3{
 nav{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
     background-color: #191970;
+    padding: 12px;
 }
 
 nav > a {
@@ -45,14 +47,12 @@ nav ul{
     flex-direction: column;
     align-items: center;
     list-style: none;
-    padding: 0;
-    width: 100%;
-    
+    justify-content: end;
+    gap: 80px;
 }
 
 nav ul li{
     text-align: center;
-    width: 100%;
     font-size: 1.2em;
 }
 
